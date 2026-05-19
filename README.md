@@ -16,17 +16,11 @@ This project focuses on analyzing customer service and telecom incident tickets 
 - Evaluate team performance and resolution efficiency
 - Improve customer experience and service reliability
 
-### 👥 Stakeholders
-
-- Operations Teams
-- Service Owners
-- Managers and Leadership
-
 ---
 
 ## 📂 Dataset Overview
 
-The dataset was compiled from three monthly Excel files exported from the Center3 Telecom Incident Ticketing System.
+The dataset was compiled from three monthly Excel files exported from the Telecom Incident Ticketing System.
 
 ### 📁 Source Files
 
@@ -41,7 +35,7 @@ The dataset was compiled from three monthly Excel files exported from the Center
 | Total Tickets | 3,051 |
 | Time Period | October 2024 – December 2024 |
 | Data Format | One row per ticket |
-| Source System | Center3 Telecom Incident Ticketing System |
+| Source System | Telecom Incident Ticketing System |
 
 ### 🏷️ Key Columns
 
